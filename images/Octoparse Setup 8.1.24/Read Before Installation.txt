@@ -1,0 +1,23 @@
+How to install Octoparse
+Please follow these steps to install Octoparse.
+1) Download the file and unzip the downloaded file
+2) Double click on the exe file to start installation
+3) Follow the installation instructions
+4) Log in with your Octoparse account (go to this link https://www.octoparse.com/signup to sign up if you don't have an account yet.)
+
+Tips:
+- Support Windows 7 and above (only supports x64 bit systems). If you're using Windows XP or x32 bit system, please download version 7.3.0.
+- If you have any problems with installation, please contact us (https://www.octoparse.com/contact) to solve the problem.
+- You're also welcome to leave feedbacks on our forum: https://helpcenter.octoparse.com/hc/en-us/community/topics
+
+
+Website: https://www.octoparse.com/
+Facebook: https://www.facebook.com/Octoparse
+Twitter: https://twitter.com/Octoparse
+Youtube: https://www.youtube.com/channel/UCweDWm1QY2G67SDAKX7nreg
+Email: support@octoparse.com
+
+Tutorials:
+FAQs: https://helpcenter.octoparse.com/hc/en-us/categories/360000892291-FAQs
+Helpcenter: https://helpcenter.octoparse.com/hc/en-us
+Hello World Video Tutorials: https://service.octoparse.com/octoparse-hello-world

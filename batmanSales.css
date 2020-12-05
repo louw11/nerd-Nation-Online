@@ -1,0 +1,51 @@
+/*The background image is of Batman and is gray scaled to allow for readability of text*/
+body {
+  background-image: url("images/batjoke-1920-319852.jpg");
+  background-color: lightgray;
+  background-blend-mode: screen
+}
+
+/*Borders around images*/
+img {
+  border: 2px solid black;
+}
+
+/*Hero Logos are set to blink in order to draw attention for clicking to a tribute video*/
+/*The background image is of Batman & the Joker and is gray scaled to allow for readability of text*/
+.blinking {
+  animation: opacity 2s ease-in-out infinite;
+  opacity: 1;
+}
+
+@keyframes opacity {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0
+  }
+
+  100% {
+    opacity: 1;
+  }
+
+}
+
+/*Animated item images to expand when hovered over*/
+
+
+.zoom {
+  padding: 50px;
+  transition: transform .2s;
+  /* Animation */
+  width: 200px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5);
+  /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+

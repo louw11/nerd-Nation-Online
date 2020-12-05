@@ -1,0 +1,63 @@
+/*The background image is of Superman and is gray scaled to allow for readability of text*/
+body {
+  background-image: url("images/Trumpwallpapers\ -\ Superman\ Wallpapers.jpg");
+  background-color: lightgray;
+  background-blend-mode: screen
+}
+
+.img-container {
+  padding: 25px 25px 25px 25px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+/*Borders around images*/
+img {
+  border: 2px solid grey;
+}
+
+/*The background image is of Superman and is gray scaled to allow for readability of text*/
+.blinking {
+  animation: opacity 2s ease-in-out infinite;
+  opacity: 1;
+}
+
+@keyframes opacity {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0
+  }
+
+  100% {
+    opacity: 1;
+  }
+
+}
+
+table {
+  color: cornflowerblue;
+  table-layout: inherit;
+  border-width: medium;
+  border-color: black;
+
+  /*Animated item images to expand when hovered over*/
+}
+
+.zoom {
+  padding: 50px;
+  transition: transform .2s;
+  /* Animation */
+  width: 200px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5);
+  /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}

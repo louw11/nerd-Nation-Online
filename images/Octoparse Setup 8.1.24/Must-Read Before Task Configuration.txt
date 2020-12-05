@@ -1,0 +1,25 @@
+Dear user,
+
+Octoparse can scrape public web data in large scale, and satisfy your diverse data scraping needs. You can start with watching video tutorials to know basics of Octoparse.
+
+Also, Octoparse offers over 100 built-in "Task Templates" covering around 60 common websites. With the templates, you don't have to design the task, instead, you just need to enter website URLs or keywords to run the task and get your desired data. 
+If you're a Free Plan user, you're welcome to apply for a 14-day premium trial to try this powerful feature out: https://www.octoparse.com/subscribe/trial?plan=std.
+
+Should you encounter any problems during operation, you can click "Contact Us" on Octoparse's side bar menu or go to this link (https://www.octoparse.com/contact) to find us and leave details about your problem. We're always here to help.
+
+Have a good day!
+
+Octoparse
+
+
+Hello World Video Tutorials for New Users to get started quickly: 
+https://service.octoparse.com/octoparse-hello-world
+
+Tutorials:
+https://helpcenter.octoparse.com/hc/en-us
+
+FAQs: 
+https://helpcenter.octoparse.com/hc/en-us/categories/360000892291-FAQs
+
+Forum:
+https://helpcenter.octoparse.com/hc/en-us/community/topics
