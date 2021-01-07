@@ -1,0 +1,26 @@
+/*centering the h2 heading*/
+h2{
+  text-align: center;
+}
+body{
+  background-color: black;
+  color: red;
+}
+/*The DC logo and the Page heading both blink*/
+.blinking{
+  animation: opacity 2s ease-in-out infinite;
+  opacity: 1;
+}
+
+@keyframes opacity {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0
+  }
+
+  100% {
+    opacity: 1;
+  }
